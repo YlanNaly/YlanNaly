@@ -14,16 +14,6 @@
     <br>
 </p>
 
-
-
-<!-- STATS -->
-<a href="https://github.com/mattnix4/github-stats">
-  <p align='center'>
-    <img src="https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg"/>
-    <img src="https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg"/>
-  </p>
-</a>
-
   <!-- SKILLS -->
   
 <p align="center">
