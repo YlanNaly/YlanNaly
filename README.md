@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<!-- PROFILE VIEW 
-<p align="center">  
-  <strong>
-    <img src="https://komarev.com/ghpvc/?username=YlanNaly&amp;color=0066ff"/>
-  </strong> 
-</p>
--->
+
+
 
 <!-- STREAK STATS -->
   <!-- SKILLS -->
@@ -34,7 +29,11 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=YlanNaly&repo=YlanNaly&countColor=%2308E8FF"/>
 </p>
 
-
+<p align="center">  
+  <strong>
+    <img src="https://komarev.com/ghpvc/?username=YlanNaly&amp;color=0066ff"/>
+  </strong> 
+</p>
   
 
 
