@@ -23,7 +23,10 @@
 
 <p>&nbsp;<img align="center"  width="900" height="200" src="https://github-readme-stats.vercel.app/api?username=YlanNaly&show_icons=true&locale=en" alt="YlanNaly" /></p>
 
-<p><img align="center"  width="900" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=YlanNaly" /></p>
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=YlanNaly&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
   
 <!-- Visitor -->
 
