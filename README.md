@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
 <!-- PROFILE VIEW 
 <p align="center">  
